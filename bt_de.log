@@ -1,0 +1,40 @@
+fetching DE_LU 2026-11-03 -> 2026-11-07
+
+Backtest DE_LU: 30 days from 2026-10-01
+  2026-10-01  model RMSE   32.11   persistence   61.93
+  2026-10-02  model RMSE   17.30   persistence   12.36
+  2026-10-03  model RMSE   18.75   persistence   44.81
+  2026-10-04  model RMSE   27.72   persistence    8.94
+  2026-10-05  model RMSE   20.84   persistence   23.27
+  2026-10-06  model RMSE   31.34   persistence   61.63
+  2026-10-07  model RMSE   23.14   persistence   49.18
+  2026-10-08  model RMSE   10.24   persistence   56.85
+  2026-10-09  model RMSE   15.02   persistence   64.37
+  2026-10-10  model RMSE   25.34   persistence   60.28
+  2026-10-11  model RMSE   55.08   persistence   75.36
+  2026-10-12  model RMSE   31.09   persistence   87.26
+  2026-10-13  model RMSE   15.18   persistence   45.96
+  2026-10-14  model RMSE   28.41   persistence   54.08
+  2026-10-15  model RMSE   29.07   persistence   29.46
+  2026-10-16  model RMSE   52.16   persistence   29.30
+  2026-10-17  model RMSE   27.58   persistence   47.65
+  2026-10-18  model RMSE   36.66   persistence   26.67
+  2026-10-19  model RMSE   44.20   persistence   43.66
+  2026-10-20  model RMSE   17.58   persistence   22.79
+  2026-10-21  model RMSE   23.52   persistence   32.79
+  2026-10-22  model RMSE   29.22   persistence   84.99
+  2026-10-23  model RMSE   13.17   persistence   80.01
+  2026-10-24  model RMSE   24.34   persistence  114.71
+  2026-10-25  model RMSE   16.09   persistence   22.61
+  2026-10-26  model RMSE   40.16   persistence  115.94
+  2026-10-27  model RMSE   40.16   persistence   58.20
+  2026-10-28  model RMSE   65.60   persistence   99.84
+  2026-10-29  model RMSE   83.62   persistence   81.66
+  2026-10-30  model RMSE   23.10   persistence   68.69
+
+  name          RMSE      R2
+  ensemble       34.56    0.811
+  lightgbm       38.95    0.760
+  ridge          34.95    0.807
+  persist D-1    62.15    0.389
+  persist D-7    89.95   -0.280
